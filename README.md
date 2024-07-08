@@ -1,3 +1,6 @@
+
+
+# My changes
 added webui with a reader class that can handle multible speakers within the class, also added a whisperX implementation that you can run to transcribe the audio and use FFmpeg to create an video with captions.
 
 
