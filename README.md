@@ -1,3 +1,16 @@
+added webui with a reader class that can handle multible speakers within the class, also added a whisperX implementation that you can run to transcribe the audio and use FFmpeg to create an video with captions.
+
+
+
+
+
+
+
+
+
+
+# AUTHERS README FILE BELOW:
+
 # StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 
 ### Yinghao Aaron Li, Cong Han, Vinay S. Raghavan, Gavin Mischler, Nima Mesgarani
